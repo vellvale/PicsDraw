@@ -6,6 +6,6 @@
         android:height="@dimen/medium_brush"
         android:width="@dimen/medium_brush" />
 
-    <solid android:color="#FF666666" />
+    <solid android:color="@color/faded_orange" />
 
 </shape>

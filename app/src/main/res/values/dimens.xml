@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- Brush sizes -->
+    <!-- Размеры кисти и иконки -->
     <dimen name="small_brush">10dp</dimen>
     <integer name="small_size">10</integer>
     <dimen name="medium_brush">20dp</dimen>

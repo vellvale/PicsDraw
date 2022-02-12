@@ -7,4 +7,28 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- Импорт цветов -->
+    <color name="army_green">#240d0d</color>
+    <color name="dull_red">#a43e3c</color>
+    <color name="very_light_pink">#fff9f6</color>
+    <color name="red_brown">#641010</color>
+    <color name="tomato">#ec1f1f</color>
+    <color name="dusty_orange">#e9721c</color>
+    <color name="macaroni_and_cheese">#e9a728</color>
+    <color name="green">#32b81d</color>
+    <color name="nice_blue">#1487ab</color>
+    <color name="royal">#12178c</color>
+    <color name="barney">#b9109e</color>
+    <color name="pastel_red">#ea5d5b</color>
+    <color name="warm_grey">#8a8a8a</color>
+    <color name="camo_green">#623e25</color>
+    <color name="burnt_umber">#9b5714</color>
+    <color name="sandy">#f2c078</color>
+    <color name="faded_orange">#efaf64</color>
+    <color name="dark_brown">#341702</color>
+    <color name="wheat">#ffcf86</color>
+    <color name="sienna_69">#b0a85f16</color>
+    <color name="sienna">#93561b</color>
+    <color name="copper">#be782e</color>
 </resources>
